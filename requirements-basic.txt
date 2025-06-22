@@ -1,0 +1,12 @@
+# Basic requirements for core functionality
+pydantic>=2.5.2
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+click>=8.1.7
+rich>=13.7.0
+
+# Optional dependencies (install separately if needed)
+# langchain-openai>=0.0.5
+# playwright>=1.40.0
+# PyPDF2>=3.0.1
+# Pillow>=10.1.0
